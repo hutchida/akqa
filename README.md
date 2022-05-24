@@ -1,4 +1,8 @@
-This is a React project with a set of small tech challenges. Spin up the server and see the main page for instructions on how to proceed.
+## AKQA Tech Challenge
+
+This is a React project with 3 main tasks. 
+
+Spin up the server and see the homepage for instructions on how to proceed.
 
 ## Getting Started
 
